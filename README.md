@@ -1,2 +1,2 @@
-# Mapa-de-Riesgo-Socio-Demogr-fico
+# Mapa-de-Riesgo-Socio-Demografico
 Trabajo para Salud Comunitaria I.
